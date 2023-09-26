@@ -1,5 +1,7 @@
 # IndexdbApp
 
+This is template of inexdb in angular you can customize dataservice based on your api response
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
 
 ## Development server
