@@ -32,7 +32,6 @@ export class DataService {
     filterDelegate: any = undefined,
     chunkLoadStrategy: ChunkLoadStrategy | undefined = undefined
   ) {
-    debugger;
     // get data from cache first if availble
 
     let cacheData = await (this.cacheService as any)[repo].getAll(
